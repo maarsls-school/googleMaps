@@ -153,7 +153,7 @@ export default function App() {
                   }}
                   key={marker.id}
                   tracksViewChanges={false}
-                  icon={require("./assets/marker.jpg")}
+                  icon={require("./assets/logowhite.png")}
                 />
               );
             })
