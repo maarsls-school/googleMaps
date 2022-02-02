@@ -1,0 +1,24 @@
+{
+  "files": {
+    "app.js": "/googlemaps/static/js/app.bf09bc11.chunk.js",
+    "app.js.map": "/googlemaps/static/js/app.bf09bc11.chunk.js.map",
+    "runtime~app.js": "/googlemaps/static/js/runtime~app.b72ecc32.js",
+    "runtime~app.js.map": "/googlemaps/static/js/runtime~app.b72ecc32.js.map",
+    "static/js/2.f0480b3d.chunk.js": "/googlemaps/static/js/2.f0480b3d.chunk.js",
+    "static/js/2.f0480b3d.chunk.js.map": "/googlemaps/static/js/2.f0480b3d.chunk.js.map",
+    "fonts/Ionicons.ttf": "/googlemaps/./fonts/Ionicons.ttf",
+    "favicon-16.png": "/googlemaps/favicon-16.png",
+    "favicon-32.png": "/googlemaps/favicon-32.png",
+    "favicon.ico": "/googlemaps/favicon.ico",
+    "index.html": "/googlemaps/index.html",
+    "manifest.json": "/googlemaps/manifest.json",
+    "serve.json": "/googlemaps/serve.json",
+    "static/js/2.f0480b3d.chunk.js.LICENSE.txt": "/googlemaps/static/js/2.f0480b3d.chunk.js.LICENSE.txt",
+    "static/media/logowhite.png": "/googlemaps/static/media/logowhite.3a6a13df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.b72ecc32.js",
+    "static/js/2.f0480b3d.chunk.js",
+    "static/js/app.bf09bc11.chunk.js"
+  ]
+}
